@@ -1,42 +1,33 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">Hello 👋 Im Theodor</h1>
 
 <p align="center">
-💻 Desarrollador | 🚀 Apasionado por la tecnología | 🎯 Siempre aprendiendo
+💻 Web Developer | 🔥 Passionate about Problem-Solving | 🎯 Always Learning
 </p>
 
 ---
-
-### 📜 Sobre mí  
-- 🔹 💡 Me especializo en **[Tus Tecnologías]**.  
-- 🔹 🚀 Actualmente trabajando en **[Tu Proyecto]**.  
-- 🔹 📚 Aprendiendo sobre **[Algo nuevo que estás explorando]**.  
-- 🔹 💬 Pregúntame sobre **[Tus áreas de conocimiento]**.  
-- 🔹 📫 Contáctame en **[Tu email o redes sociales]**.  
+### 📜 About Me  
+- 🔹 💡 I specialize in **JavaScript, HTML, PHP**.  
+- 🔹 🚀 Currently working on **R-INFO WEBSITE**.  
+- 🔹 📚 Learning about **Angular and Spring Boot**.  
+- 🔹 📫 Contact me at **theolj2004@hotmail.com**.  
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white">
 </p>
 
 ---
 
-### 📊 Mis estadísticas de GitHub  
+### 🌎 Find Me On...  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dracula">
+  <a href="https://www.linkedin.com/in/theo-herrera-molina-16b75b288/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/theodor_dev/?hl=es"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
 </p>
-
----
-
-### 🌎 Encuéntrame en...
-<p align="center">
-  <a href="https://linkedin.com/in/TuUsuario"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/TuUsuario"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
-</p>
-
 
 <!---
 SomeTheodor/SomeTheodor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
