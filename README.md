@@ -6,10 +6,10 @@
 
 ---
 ### 📜 About Me  
-- 🔹 💡 I specialize in **JavaScript, HTML, PHP, MySQL**.  
-- 🔹 🚀 Currently working on **Unonficial-R-Info**.  
-- 🔹 📚 Learning about **Angular and Spring Boot**.  
-- 🔹 📫 Contact me at **theolj2004@hotmail.com**.  
+🔹 💡 I specialize in **JavaScript, HTML, PHP, MySQL**.  
+🔹 🚀 Currently working on **Unonficial-R-Info**.  
+🔹 📚 Learning about **Angular and Spring Boot**.  
+🔹 📫 Contact me at **theolj2004@hotmail.com**.  
 
 ---
 
