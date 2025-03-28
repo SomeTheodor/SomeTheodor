@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 Im Theodor</h1>
 
 <p align="center">
-💻 Web Developer | 🔥 Passionate about Problem-Solving | 🎯 Always Learning
+💻 Back-end Developer | 🔥 Passionate about Problem-Solving | 🎯 Always Learning
 </p>
 
 ---
